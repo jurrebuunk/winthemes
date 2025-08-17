@@ -1,0 +1,10 @@
+{
+  "active_theme": "dark",
+  "scripts": [
+    "modules/update_komorebi.py",
+    "modules/set_dark_light.ps1",
+    "modules/set_background.ps1",
+    "modules/set_accent.ps1",
+    "modules/set_cursor.py"
+  ]
+}

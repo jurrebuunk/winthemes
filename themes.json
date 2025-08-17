@@ -1,0 +1,20 @@
+{
+  "darksky": {
+    "mode": "dark",
+    "background": "#202020",
+    "foreground": "#FFFFFF",
+    "accent": "#89b4fa",
+    "border": "#89b4fa",
+    "background_image": "C:/Wallpapers/wallpaper-2.png",
+    "cursor": "inverted_arrow"
+  },
+  "darkstreet": {
+    "mode": "dark",
+    "background": "#202020",
+    "foreground": "#FFFFFF",
+    "accent": "#ffe396",
+    "border": "#ffe396",
+    "background_image": "C:/Wallpapers/wallpaper-3.png",
+    "cursor": "inverted_arrow"
+  }
+}
